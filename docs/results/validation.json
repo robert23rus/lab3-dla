@@ -1,0 +1,317 @@
+{
+  "steps": 400,
+  "expected_msd": 400.0,
+  "measured_msd": 401.1008,
+  "standard_error": 2.811438575055672,
+  "expected_standard_error": 2.824889378365107,
+  "z_score": 0.3915433222574299,
+  "trials": 20000,
+  "seed": 2026,
+  "step_length": 1,
+  "diffusion_coefficient": 0.25,
+  "mean_position": [
+    0.0377,
+    -0.1195
+  ],
+  "relative_error": 0.0027520000000000877,
+  "tolerance_standard_errors": 4.0,
+  "passed": true,
+  "curve": [
+    {
+      "steps": 1,
+      "expected_msd": 1.0,
+      "measured_msd": 1.0,
+      "standard_error": 0.0,
+      "expected_standard_error": 0.0,
+      "z_score": 0.0
+    },
+    {
+      "steps": 2,
+      "expected_msd": 2.0,
+      "measured_msd": 2.0025,
+      "standard_error": 0.010018717793975025,
+      "expected_standard_error": 0.01,
+      "z_score": 0.2495329294037383
+    },
+    {
+      "steps": 3,
+      "expected_msd": 3.0,
+      "measured_msd": 2.996,
+      "standard_error": 0.01732091801002578,
+      "expected_standard_error": 0.017320508075688773,
+      "z_score": -0.23093464201404934
+    },
+    {
+      "steps": 4,
+      "expected_msd": 4.0,
+      "measured_msd": 3.9981,
+      "standard_error": 0.024586175861694613,
+      "expected_standard_error": 0.02449489742783178,
+      "z_score": -0.0772791999328461
+    },
+    {
+      "steps": 5,
+      "expected_msd": 5.0,
+      "measured_msd": 5.0404,
+      "standard_error": 0.031875526575410845,
+      "expected_standard_error": 0.03162277660168379,
+      "z_score": 1.2674300424315195
+    },
+    {
+      "steps": 6,
+      "expected_msd": 6.0,
+      "measured_msd": 6.0419,
+      "standard_error": 0.03884247232582935,
+      "expected_standard_error": 0.03872983346207417,
+      "z_score": 1.0787160932631343
+    },
+    {
+      "steps": 7,
+      "expected_msd": 7.0,
+      "measured_msd": 7.0252,
+      "standard_error": 0.04576978251695743,
+      "expected_standard_error": 0.0458257569495584,
+      "z_score": 0.5505815980371643
+    },
+    {
+      "steps": 8,
+      "expected_msd": 8.0,
+      "measured_msd": 8.0246,
+      "standard_error": 0.05277147888252869,
+      "expected_standard_error": 0.05291502622129181,
+      "z_score": 0.4661608982905338
+    },
+    {
+      "steps": 9,
+      "expected_msd": 9.0,
+      "measured_msd": 9.0256,
+      "standard_error": 0.059630068080214045,
+      "expected_standard_error": 0.06,
+      "z_score": 0.4293136134871379
+    },
+    {
+      "steps": 10,
+      "expected_msd": 10.0,
+      "measured_msd": 10.0251,
+      "standard_error": 0.06684820067583479,
+      "expected_standard_error": 0.0670820393249937,
+      "z_score": 0.37547757076838745
+    },
+    {
+      "steps": 12,
+      "expected_msd": 12.0,
+      "measured_msd": 12.0458,
+      "standard_error": 0.08127770556106431,
+      "expected_standard_error": 0.08124038404635961,
+      "z_score": 0.5635001589161507
+    },
+    {
+      "steps": 13,
+      "expected_msd": 13.0,
+      "measured_msd": 13.0402,
+      "standard_error": 0.08779626761560176,
+      "expected_standard_error": 0.08831760866327847,
+      "z_score": 0.457878234368778
+    },
+    {
+      "steps": 15,
+      "expected_msd": 15.0,
+      "measured_msd": 15.0638,
+      "standard_error": 0.10219001231984902,
+      "expected_standard_error": 0.10246950765959599,
+      "z_score": 0.624327158316706
+    },
+    {
+      "steps": 17,
+      "expected_msd": 17.0,
+      "measured_msd": 17.0442,
+      "standard_error": 0.11617218736365362,
+      "expected_standard_error": 0.116619037896906,
+      "z_score": 0.38046972346006386
+    },
+    {
+      "steps": 20,
+      "expected_msd": 20.0,
+      "measured_msd": 20.0767,
+      "standard_error": 0.13820112457227565,
+      "expected_standard_error": 0.13784048752090222,
+      "z_score": 0.5549882480144852
+    },
+    {
+      "steps": 23,
+      "expected_msd": 23.0,
+      "measured_msd": 23.0446,
+      "standard_error": 0.15914913434998074,
+      "expected_standard_error": 0.15905973720586866,
+      "z_score": 0.2802402927427829
+    },
+    {
+      "steps": 26,
+      "expected_msd": 26.0,
+      "measured_msd": 26.1415,
+      "standard_error": 0.18085127659685551,
+      "expected_standard_error": 0.18027756377319948,
+      "z_score": 0.7824108442177339
+    },
+    {
+      "steps": 30,
+      "expected_msd": 30.0,
+      "measured_msd": 30.317,
+      "standard_error": 0.20969733951271277,
+      "expected_standard_error": 0.2085665361461421,
+      "z_score": 1.5117025363155943
+    },
+    {
+      "steps": 34,
+      "expected_msd": 34.0,
+      "measured_msd": 34.1771,
+      "standard_error": 0.2365474994910658,
+      "expected_standard_error": 0.2368543856465402,
+      "z_score": 0.74868684040641
+    },
+    {
+      "steps": 40,
+      "expected_msd": 40.0,
+      "measured_msd": 39.992,
+      "standard_error": 0.2770433800900548,
+      "expected_standard_error": 0.2792848008753788,
+      "z_score": -0.028876344193469693
+    },
+    {
+      "steps": 45,
+      "expected_msd": 45.0,
+      "measured_msd": 44.8738,
+      "standard_error": 0.3104924861525603,
+      "expected_standard_error": 0.31464265445104544,
+      "z_score": -0.4064510596175551
+    },
+    {
+      "steps": 52,
+      "expected_msd": 52.0,
+      "measured_msd": 51.4731,
+      "standard_error": 0.35653000505108273,
+      "expected_standard_error": 0.3641428291206625,
+      "z_score": -1.4778559799602415
+    },
+    {
+      "steps": 59,
+      "expected_msd": 59.0,
+      "measured_msd": 58.3198,
+      "standard_error": 0.4048828261400391,
+      "expected_standard_error": 0.4136423575989287,
+      "z_score": -1.6799922251202983
+    },
+    {
+      "steps": 68,
+      "expected_msd": 68.0,
+      "measured_msd": 67.7433,
+      "standard_error": 0.4749810897365077,
+      "expected_standard_error": 0.47728398255126897,
+      "z_score": -0.540442568234448
+    },
+    {
+      "steps": 78,
+      "expected_msd": 78.0,
+      "measured_msd": 77.9675,
+      "standard_error": 0.5461317333583621,
+      "expected_standard_error": 0.5479963503528102,
+      "z_score": -0.05950945168511739
+    },
+    {
+      "steps": 89,
+      "expected_msd": 89.0,
+      "measured_msd": 88.4206,
+      "standard_error": 0.6201141845354717,
+      "expected_standard_error": 0.6257795138864807,
+      "z_score": -0.9343440521910268
+    },
+    {
+      "steps": 102,
+      "expected_msd": 102.0,
+      "measured_msd": 101.6894,
+      "standard_error": 0.7091762142987781,
+      "expected_standard_error": 0.7177046746399246,
+      "z_score": -0.43797295190887076
+    },
+    {
+      "steps": 117,
+      "expected_msd": 117.0,
+      "measured_msd": 116.464,
+      "standard_error": 0.812605889479384,
+      "expected_standard_error": 0.8237718130647589,
+      "z_score": -0.6596063441570711
+    },
+    {
+      "steps": 135,
+      "expected_msd": 135.0,
+      "measured_msd": 134.9404,
+      "standard_error": 0.9362270923501532,
+      "expected_standard_error": 0.9510520490488414,
+      "z_score": -0.06365976854010792
+    },
+    {
+      "steps": 154,
+      "expected_msd": 154.0,
+      "measured_msd": 153.4108,
+      "standard_error": 1.0618901745025873,
+      "expected_standard_error": 1.0854031509075326,
+      "z_score": -0.5548596400527008
+    },
+    {
+      "steps": 177,
+      "expected_msd": 177.0,
+      "measured_msd": 176.633,
+      "standard_error": 1.23122195437096,
+      "expected_standard_error": 1.2480384609458155,
+      "z_score": -0.298077855659659
+    },
+    {
+      "steps": 202,
+      "expected_msd": 202.0,
+      "measured_msd": 200.2687,
+      "standard_error": 1.3963052185781846,
+      "expected_standard_error": 1.4248157775656474,
+      "z_score": -1.23991515391093
+    },
+    {
+      "steps": 232,
+      "expected_msd": 232.0,
+      "measured_msd": 229.7266,
+      "standard_error": 1.6031748161372033,
+      "expected_standard_error": 1.6369483803712321,
+      "z_score": -1.4180611977661248
+    },
+    {
+      "steps": 266,
+      "expected_msd": 266.0,
+      "measured_msd": 263.9598,
+      "standard_error": 1.84453975710576,
+      "expected_standard_error": 1.8773651749193603,
+      "z_score": -1.1060753730791222
+    },
+    {
+      "steps": 305,
+      "expected_msd": 305.0,
+      "measured_msd": 303.1422,
+      "standard_error": 2.126193421088776,
+      "expected_standard_error": 2.1531372459738836,
+      "z_score": -0.8737681066893056
+    },
+    {
+      "steps": 349,
+      "expected_msd": 349.0,
+      "measured_msd": 350.029,
+      "standard_error": 2.467161316614321,
+      "expected_standard_error": 2.4642645961828045,
+      "z_score": 0.41707852383649174
+    },
+    {
+      "steps": 400,
+      "expected_msd": 400.0,
+      "measured_msd": 401.1008,
+      "standard_error": 2.811438575055672,
+      "expected_standard_error": 2.824889378365107,
+      "z_score": 0.3915433222574299
+    }
+  ]
+}
